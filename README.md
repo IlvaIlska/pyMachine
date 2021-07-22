@@ -1,4 +1,6 @@
 # conda_binder
-Basic Conda based Binder
+
+
+pyMachine's binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IlvaIlska/pyMachine.git/HEAD)
